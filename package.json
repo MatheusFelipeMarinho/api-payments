@@ -1,0 +1,22 @@
+{
+  "name": "api-payments",
+  "version": "1.0.0",
+  "description": "api payments",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MatheusFelipeMarinho/api-payments.git"
+  },
+  "keywords": [
+    "pay"
+  ],
+  "author": "Matheus Carmo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatheusFelipeMarinho/api-payments/issues"
+  },
+  "homepage": "https://github.com/MatheusFelipeMarinho/api-payments#readme"
+}
