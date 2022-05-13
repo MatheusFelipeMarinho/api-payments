@@ -4,7 +4,8 @@
   "description": "api payments",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node index.js"
   },
 
   "dependencies": {
